@@ -517,7 +517,7 @@ button[type="submit"]:hover {
     }
     section{
     padding-left: 0;
-    padding-right:5%;
+    padding-right:0;
     }
     .zigzag{
         display: none;
